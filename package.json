@@ -1,0 +1,26 @@
+{
+  "name": "create-y-cli",
+  "version": "1.0.0",
+  "description": "a popular cli to create project template",
+  "main": "index.js",
+  "bin": {
+    "create-y-cli": "lib/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuandapeng/create-y-cli.git"
+  },
+  "keywords": [],
+  "author": "yuandapeng <18852369945@163.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuandapeng/create-y-cli/issues"
+  },
+  "homepage": "https://github.com/yuandapeng/create-y-cli#readme",
+  "dependencies": {
+    "prompts": "^2.4.2"
+  }
+}
